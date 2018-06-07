@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+button{
+    float: right;
+}
+.container{
+    width: 80%;
+    background: grey;
+    height: 800px;
+    margin: 10px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.flex{
+    margin: 10px;
+    background: white;
+    width: 250px;
+    height: 250px;
+}
+.p{
+    font-weight: bold;
+    margin: 5px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+.btn{
+    top: 20px;
+    right: 200px;
+    position: absolute;
+    width: 100px;
+    height: 50px;
+}
+.cont{
+    padding: 30px;
+    margin: 10px auto;
+    width: 180px;
+    height: 200px;
+    background:grey;
+    text-align: center;
+}
+.btn2{
+    float: right;
+    margin-top: 50px;
+}
